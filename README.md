@@ -166,7 +166,7 @@ Of course, these are very speculative inferences based solely on one abstract pa
 ----------------------------
 
 
-## "The Old Guitarist" by Pablo Picasso"
+## "The Old Guitarist" by Pablo Picasso
 
 ![Alt text](image-4.png)
 
