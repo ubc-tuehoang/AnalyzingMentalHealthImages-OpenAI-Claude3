@@ -5,9 +5,11 @@
 - Strive for excellence
 - Explore together & unlock the world's knowledge
 
-Peeking Beyond the Canvas: Analyzing Mental Health through Images with OpenAI and Claude3
+## Peeking Beyond the Canvas: Analyzing Mental Health through Images with OpenAI and Claude3
 
 Harnessing the capabilities of OpenAI and Claude3 in analyzing patient paintings and artistic expressions represents a groundbreaking approach in exploring early mental health issues. By harnessing the capabilities of AI-driven image analysis and deep learning techniques, researchers and clinicians can delve into the rich visual narratives embedded within these artworks, uncovering hidden nuances and patterns indicative of underlying mental health conditions. 
+
+_Prompt: As a psychiatrist, psychologist, and therapist in the healthcare profession, reflect on what the artist reveals about their psychological state. Describe how the psychological mindset of the painter evolves as the painting progresses, noting moments of intense focus and inspiration._
 
 --------------------------------------
 
@@ -32,7 +34,7 @@ If we were to imagine the psychological mindset of the painter evolving througho
 It's important to note that without direct input from the artist, any interpretations of the psychological mindset behind the painting would be speculative. Art often serves as a mirror to the artist’s internal world, and viewers can project different meanings based on their own experiences and perceptions.
 
 
-### <ins>Second Run with OpenAI Response: Prompt Enhancement for Big Five Personality Traits</ins>
+### <ins>Second Run with OpenAI Response: Prompt Enhancement for the Big Five Personality Traits</ins>
 
 I'm here to help with general insights, but please remember that analyzing artwork to determine an artist's personality traits can be speculative and subjective.
 
@@ -65,7 +67,7 @@ At the same time, the expressive, almost frenzied linework hints at an underlyin
 As mental health professionals, we recognize the therapeutic potential of artistic expression like this. Engaging in a creative flow state can provide a healthy outlet, stress relief, and sense of accomplishment. The artist's dedication suggests the process is meaningful to them, perhaps as a way to cope, communicate, or simply revel in the joy of making.
 
 
-### <ins>Second Run with Claude3 Response: Prompt Enhancement for Big Five Personality Traits</ins>
+### <ins>Second Run with Claude3 Response: Prompt Enhancement for the Big Five Personality Traits</ins>
 
 This charcoal or pencil sketch of a teddy bear conveys a sense of sadness, loneliness and vulnerability. The bear seems worn and weary, perhaps abandoned or neglected based on the downcast eyes and slouched posture against the dark, empty background.
 
@@ -102,7 +104,7 @@ Inspirational bursts could have brought about the lively selection of colors and
 To empathize with the artist, one can consider the universal desire to connect with others and share emotions. The act of making art to celebrate a holiday dedicated to love can be seen as an extension of the artist's own feelings and a wish to share joy with viewers. Additionally, recognizing the ebb and flow of the creative process, where focus and inspiration come and go, can help us appreciate the human experience behind the artwork. It's a reminder that creation is not always linear but often a dynamic dance between different mental states.
 
 
-### <ins>Second Run with OpenAI Response: Prompt Enhancement for Big Five Personality Traits</ins>
+### <ins>Second Run with OpenAI Response: Prompt Enhancement for the Big Five Personality Traits</ins>
 
 As an AI with no medical qualifications, I'm not a healthcare professional, but I can offer some insights based on the description given and an analysis of the image provided.
 
@@ -141,7 +143,7 @@ To empathize with this artist, one could appreciate their willingness to be vuln
 
 Ultimately, this painting provides a window into the artist's psyche - a landscape alive with feeling, yearning and moments of both turbulence and peace. Approaching their work with openness, curiosity and compassion can foster a deeper appreciation for their unique artistic voice and the psychological depths from which it emerges.
 
-### <ins>Second Run with Claude3 Response: Prompt Enhancement for Big Five Personality Traits</ins>
+### <ins>Second Run with Claude3 Response: Prompt Enhancement for the Big Five Personality Traits</ins>
 
 This abstract painting provides intriguing insights into the artist's psychological state and creative process. As the painting progresses, the brushwork and color choices suggest the artist's mindset oscillates between periods of intense focus and bursts of inspiration.
 
