@@ -170,6 +170,9 @@ Of course, these are very speculative inferences based solely on one abstract pa
 
 ## "The Old Guitarist" by Pablo Picasso
 
+_Prompt: Reflect on the psychological journey of an artist as revealed through their artwork. Describe how the artist's mindset evolves throughout the process of painting, highlighting moments of intense focus and inspiration. Consider strategies for empathizing with the artist and supporting their creative journey._
+
+
 ![Alt text](image-4.png)
 
 _source: https://www.wikiart.org/en/pablo-picasso/the-old-blind-guitarist-1903_
